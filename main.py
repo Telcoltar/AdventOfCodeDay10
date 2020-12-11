@@ -1,6 +1,3 @@
-from itertools import combinations, chain
-from typing import Iterator
-
 from commenUtils import get_input_data
 import logging
 import argparse
